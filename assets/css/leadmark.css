@@ -11789,4 +11789,16 @@ textarea.form-control {
   right: 0px;
   z-index: 10;
 }
+/* The navbar k neeche wala animation code */
+@keyframes example {
+  from {color: green;}
+  to {color: red;}
+}
+
+
+
+
+
+
+
 
