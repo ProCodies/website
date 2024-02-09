@@ -11791,8 +11791,8 @@ textarea.form-control {
 }
 /* The navbar k neeche wala animation code */
 @keyframes example {
-  from {color: green;}
-  to {color: red;}
+  from {color: black;}
+  to {color: white;}
 }
 
 
